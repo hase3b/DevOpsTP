@@ -1,4 +1,4 @@
-# DevOpsTP Project: AWS Infrastructure with Terraform
+# DevOps Term Project: AWS Infrastructure with Terraform
 
 ## Project Overview
 
