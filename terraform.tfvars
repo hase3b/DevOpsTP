@@ -2,7 +2,7 @@
 aws_region = "us-east-1"
 
 # Project Configuration
-project_name = "haseeb-aws-terraform-project"
+project_name = "################"
 environment  = "dev"
 
 # Network Configuration
@@ -21,7 +21,7 @@ desired_capacity_bi  = 1
 key_pair_name     = "################"  
 
 # Domain Configuration
-domain_name = "devops42.online" 
+domain_name = "################" 
 
 # Database Configuration
 db_username               = "################"
